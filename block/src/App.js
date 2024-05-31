@@ -18,8 +18,7 @@ function App() {
           <div className="blog-text">
             <h2>Understanding React: A Modern Library for Building User Interfaces</h2>
             <p className="blog-meta">By John Doe | Jan 1, 2024</p>
-            <p>React is a popular JavaScript library for building user interfaces, maintained by Facebook and a community of individual developers and companies. It allows developers to create large web applications that can update and render efficiently in response to data changes. The core principle of React is the concept of components – reusable pieces of UI that can be nested, managed, and handled independently.</p>
-            <p>One of the standout features of React is its use of a virtual DOM, which optimizes updates and improves performance. Instead of updating the whole page when a change occurs, React updates only the parts of the page that have changed. This makes React applications faster and more efficient. JSX, a syntax extension for JavaScript, is used in React to describe what the UI should look like. JSX allows you to write HTML elements in JavaScript, which makes the code easier to understand and maintain.</p>
+            <p>React is a popular JavaScript library for building user interfaces, which optimizes updates and improves performance. Instead of updating the whole page when a change occurs, React updates only the parts of the page that have changed. This makes React applications faster and more efficient. JSX, a syntax extension for JavaScript, is used in React to describe what the UI should look like. JSX allows you to write HTML elements in JavaScript, which makes the code easier to understand and maintain.</p>
             <p>React also promotes the use of functional programming principles.</p>
           </div>
         </div>
@@ -30,7 +29,7 @@ function App() {
             <p className="blog-meta">By Jane Smith | Feb 15, 2024</p>
             <p>The Internet of Things (IoT) connects devices, allowing seamless data exchange. Smart homes, wearables, and industrial automation are revolutionized.</p>
             <p>IoT impacts daily life by enhancing convenience. Smart thermostats, lighting, and security systems make homes more efficient and secure.</p>
-            <p>Industries benefit from IoT through improved efficiency and reduced costs. Predictive maintenance and real-time monitoring optimize operations and productivity.</p>
+            <p>Industries benefit  Predictive maintenance and real-time monitoring optimize operations and productivity.</p>
           </div>
         </div>
         <div className="blog-post">
